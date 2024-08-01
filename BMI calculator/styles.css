@@ -1,0 +1,39 @@
+section{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    font-size:40px ;
+    }
+
+
+    .btn{
+       margin: 30px;
+     width: 150px;
+     height: 50px;
+     border-radius: 10px;
+     background-color: antiquewhite;
+     color: black;
+     font-size: 20px;
+     
+
+
+    }
+    body{
+        background-color: blanchedalmond;
+    }
+
+    input{
+        width: 200px;
+        height: 30px;   
+        border-radius:5px ;
+        background: transparent;
+        opacity: .4;
+        border: solid 1px black;
+
+    }
+    
